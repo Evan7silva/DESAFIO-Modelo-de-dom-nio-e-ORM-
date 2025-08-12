@@ -38,6 +38,7 @@ public class Bloco {
 		this.id = id;
 		this.inicio = inicio;
 		this.fim = fim;
+		
 	}
 
 	public Long getId() {
